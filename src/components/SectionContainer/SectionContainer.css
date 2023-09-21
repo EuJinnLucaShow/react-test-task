@@ -1,0 +1,20 @@
+.section__wrapper {
+  width: 100%;
+  max-width: 30rem;
+  background-color: #f9f9f9;
+  padding: 0.5rem;
+  border-radius: 8px;
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.75);
+}
+
+.section__title {
+  color: gray;
+}
+
+.section__content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}

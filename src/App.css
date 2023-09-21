@@ -1,0 +1,36 @@
+.wrapper {
+  width: 100%;
+  min-width: 15rem;
+  display: flex;
+  flex-direction: column; 
+    flex-direction: row;
+  
+}
+
+.sections {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1rem;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.header {
+  align-items: center;  
+  margin: 10px;  
+  background-color: #2b2f3e;
+  height: 5rem;
+  max-width: 100%;
+  width: 100%;
+  padding: 0.5rem;
+  color: white;   
+  min-height: 100vh;
+  height: auto;
+  max-width: 15rem;  
+}
+
+.header p {
+  color: #5b5d63;;
+}
