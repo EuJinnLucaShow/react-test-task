@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+# Вимоги:
+1. Використовувати React.
+2. Не використовувати сторонні бібліотеки для стилів. 
+3. Імʼя елемента при додаванні є обовʼязковим.
+4. До можна елемента можна додавати коментарі, у коментаря є колір та текст. 
+5. Елементи можна видаляти.
+6. Елементи при перезавантаженні сторінки повинні зберігатися. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
