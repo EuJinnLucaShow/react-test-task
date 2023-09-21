@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Тестове завдання
 
 # Вимоги:
 1. Використовувати React.
