@@ -2,6 +2,7 @@
   "name": "react-test-task",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://EuJinnLucaShow.github.io/react-test-task/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@testing-library/jest-dom": "^5.17.0",
